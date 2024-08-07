@@ -13,6 +13,7 @@
     - [虚拟环境准备](#虚拟环境准备)
   - [系统运行](#系统运行)
 - [🧾 未来规划](#未来规划)
+- [🌟 Star History](#-star-history)
 - [💕 致谢](#致谢)
 
 ## 📖 简介
@@ -39,6 +40,12 @@
 
 
 ## 未来规划
+
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ylzt777/Chat-bot-InternLM.git&type=Date)](https://star-history.com/#ylzt777/Chat-bot-InternLM.git&Date)
+
 
 
 ## 致谢
